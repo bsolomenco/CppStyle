@@ -1,0 +1,8 @@
+Naming Convention
+=================
+
+Differentiate entities by type
+
+- UPPERCASE: macros, constants
+- CamelCase: files, namespaces, types
+- camelCase: functions, variables
